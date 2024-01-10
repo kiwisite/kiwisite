@@ -1,0 +1,19 @@
+@media screen and (max-width: 1200px) {
+    li {
+        width: 30%;
+    }
+    .navbar {
+        text-align: center;
+    }
+    body {
+        font-size: smaller;
+        align-items: center;
+        text-align: center;
+    }
+    #filething {
+        display: none;
+    }
+    img {
+        max-width: 390px;
+    }
+}
